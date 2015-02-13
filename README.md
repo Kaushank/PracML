@@ -1,2 +1,2 @@
-# RegMod
-Regression Model coursera
+# PraacML
+Practical Machine Learning  coursera
